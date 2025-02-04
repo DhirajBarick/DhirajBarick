@@ -1,6 +1,6 @@
 ## Hi there 👋
 MY name is Dhiraj Barick 
-I’m currently pursuing B.Tech in Information Technology
+I’m currently pursuing B.Tech in Information Technology.
 I want to become a Web Developer
 <!--
 **DhirajBarick/DhirajBarick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
