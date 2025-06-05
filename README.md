@@ -47,9 +47,8 @@ Hi there! I'm **Dhiraj Barick**, an enthusiastic and curious learner currently p
 
 ## 📫 Connect With Me
 
-- 📧 Email: dhirajbarick@example.com *(replace with your real email)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhirajbarick) *(replace with your LinkedIn URL)*
-- 🧑‍💻 [Portfolio Website](https://your-portfolio-link.com) *(if available)*
+- 📧 Email: dhirajbarick.2010@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhirajbarick) 
 
 ---
 
